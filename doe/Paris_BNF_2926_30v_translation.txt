@@ -1,0 +1,8 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2709
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 To Messire Eloy d\'92Amerval, priest, canon of Chasteaudun, the sum of 18 livres 2 sols 6 deniers tournois, to whom the said lord has made a gift in 10 [louis] d\'92or soleil in recognition of his having served him at one time. And to help him live more honorably. For this 18 livres 2 sols 6 deniers.}
